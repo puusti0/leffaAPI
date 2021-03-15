@@ -46,7 +46,6 @@ jobs:
         with:
           context: .
           push: true
-          tags: $DOCKERHUB_ACCOUNT/$IMAGE_NAME:latest
+          tags: user/app:latest
         
-        
-    
+
