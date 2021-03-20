@@ -7,7 +7,7 @@ from leffaAPI.resources.hello import Hello
 app = Flask(__name__)
 api = Api(app)
 
-#Testailua
+# Testailua
 api.add_resource(Hello, '/')
 api.add_resource(Foo, '/foo')
 api.add_resource(Bar, '/bar')
