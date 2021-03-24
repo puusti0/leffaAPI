@@ -1,2 +1,4 @@
 # leffaAPI
-Hakee tiedot Helsingissä esitettävistä elokuvista.
+Hakee tiedot Helsingissä esitettävistä elokuvista(joskus tulevaisuudessa).
+
+
